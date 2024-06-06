@@ -8,17 +8,17 @@ export const Data = [
             {
                 name: "Débora",
                 number: "9448 1671",
-                picture: "/Images/debora.webp",
+                picture: "/comercial/Images/debora.webp",
             },
             {
                 name: "Marcos",
                 number: "9505 3451",
-                picture: "/Images/marcos.webp",
+                picture: "/comercial/Images/marcos.webp",
             },
             {
                 name: "Paulo",
                 number: "8160 7598",
-                picture: "/Images/paulo.webp",
+                picture: "/comercial/Images/paulo.webp",
             },
         ],
 
@@ -32,22 +32,22 @@ export const Data = [
             {
                 name: "Pedro",
                 number: "8162 5069",
-                picture: "/Images/pedro.webp",
+                picture: "/comercial/Images/pedro.webp",
             },
             {
                 name: "Marcel",
                 number: "9108 9138",
-                picture: "/Images/Marcel.webp",
+                picture: "/comercial/Images/Marcel.webp",
             },
             {
                 name: "Matheus",
                 number: "8170 4216",
-                picture: "/Images/Matheus.webp",
+                picture: "/comercial/Images/Matheus.webp",
             },
             {
                 name: "Ingrid",
                 number: "9269 9517",
-                picture: "/Images/ingrid.webp",
+                picture: "/comercial/Images/ingrid.webp",
             },
         ],
 
@@ -61,17 +61,17 @@ export const Data = [
             {
                 name: "Érica",
                 number: " 8130 5213",
-                picture: "/Images/erica.webp",
+                picture: "/comercial/Images/erica.webp",
             },
             {
                 name: "Camila",
                 number: "9603 2809",
-                picture: "/Images/Camila.webp",
+                picture: "/comercial/Images/Camila.webp",
             },
             {
                 name: "Lucas",
                 number: "8132 2734",
-                picture: "/Images/Lucas.webp",
+                picture: "/comercial/Images/Lucas.webp",
             },
         ],
 
@@ -85,7 +85,7 @@ export const Data = [
             {
                 name: "Fábio",
                 number: "9840 9114",
-                picture: "/Images/fabio.webp",
+                picture: "/comercial/Images/fabio.webp",
             }
         ],
 
