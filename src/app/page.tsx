@@ -11,38 +11,38 @@ import { Card } from "./components";
 
 export default function Home() {
 
-  const [data, setData] = useState(Data);
+  // const [data, setData] = useState(Data);
 
-  const [newGroupMember, setNewGroupMember] = useState({
-    name: "",
-    number: "",
-    picture: "",
-  });
+  // const [newGroupMember, setNewGroupMember] = useState({
+  //   name: "",
+  //   number: "",
+  //   picture: "",
+  // });
 
-  const [selectedGroupTitle, setSelectedGroupTitle] = useState("");
+  // const [selectedGroupTitle, setSelectedGroupTitle] = useState("");
 
-  const handleInputChange = (e) => {
-    const { name, value } = e.target;
-    setNewGroupMember({ ...newGroupMember, [name]: value });
-  };
+  // const handleInputChange = (e) => {
+  //   const { name, value } = e.target;
+  //   setNewGroupMember({ ...newGroupMember, [name]: value });
+  // };
 
-  const handleSelectChange = (e) => {
-    setSelectedGroupTitle(e.target.value);
-  };
+  // const handleSelectChange = (e) => {
+  //   setSelectedGroupTitle(e.target.value);
+  // };
 
-  const addNewGroupMember = () => {
-    setData(data.map(entry => {
-      if (entry.title === selectedGroupTitle) {
-        return {
-          ...entry,
-          group: [...entry.group, newGroupMember]
-        };
-      }
-      return entry;
-    }));
-    setNewGroupMember({ name: "", number: "", picture: "" });
-    setSelectedGroupTitle("");
-  };
+  // const addNewGroupMember = () => {
+  //   setData(data.map(entry => {
+  //     if (entry.title === selectedGroupTitle) {
+  //       return {
+  //         ...entry,
+  //         group: [...entry.group, newGroupMember]
+  //       };
+  //     }
+  //     return entry;
+  //   }));
+  //   setNewGroupMember({ name: "", number: "", picture: "" });
+  //   setSelectedGroupTitle("");
+  // };
 
 
   return (
