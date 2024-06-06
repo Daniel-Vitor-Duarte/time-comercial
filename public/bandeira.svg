@@ -1,0 +1,36 @@
+<svg width="36" height="25" viewBox="0 0 36 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#240;&#159;&#166;&#134; icon &#34;Brazil&#34;">
+<g id="Group">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M0.18866 5C0.18866 2.23858 2.42724 0 5.18866 0H30.1887C32.9501 0 35.1887 2.23858 35.1887 5V20C35.1887 22.7614 32.9501 25 30.1887 25H5.18866C2.42723 25 0.18866 22.7614 0.18866 20V5Z" fill="url(#paint0_linear_7643_3740)"/>
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M0.18866 5C0.18866 2.23858 2.42724 0 5.18866 0H30.1887C32.9501 0 35.1887 2.23858 35.1887 5V20C35.1887 22.7614 32.9501 25 30.1887 25H5.18866C2.42723 25 0.18866 22.7614 0.18866 20V5Z" fill="url(#paint1_linear_7643_3740)"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M4.22338 12.955C3.83538 12.7039 3.84336 12.2917 4.22338 12.0458L16.985 3.78829C17.373 3.53724 18.01 3.5424 18.39 3.78829L31.1516 12.0458C31.5396 12.2969 31.5317 12.7091 31.1516 12.955L18.39 21.2125C18.002 21.4635 17.365 21.4584 16.985 21.2125L4.22338 12.955Z" fill="#FDD216"/>
+<g id="Group_2">
+<path id="Vector_4" d="M17.6894 18.3333C20.911 18.3333 23.5227 15.7217 23.5227 12.5C23.5227 9.27834 20.911 6.66667 17.6894 6.66667C14.4677 6.66667 11.856 9.27834 11.856 12.5C11.856 15.7217 14.4677 18.3333 17.6894 18.3333Z" fill="url(#paint2_linear_7643_3740)"/>
+<g id="Mask group">
+<mask id="mask0_7643_3740" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="11" y="6" width="13" height="13">
+<g id="Group_3">
+<path id="Vector_5" d="M17.6913 18.3328C20.913 18.3328 23.5246 15.7211 23.5246 12.4995C23.5246 9.27782 20.913 6.66615 17.6913 6.66615C14.4696 6.66615 11.858 9.27782 11.858 12.4995C11.858 15.7211 14.4696 18.3328 17.6913 18.3328Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_7643_3740)">
+<path id="Vector_6" d="M11.6891 11.6226C12.1312 11.2645 14.1273 11.5559 17.58 12.477C20.037 13.1324 22.8682 14.5794 23.516 15.3794C23.8057 15.7371 24.3304 15.7922 24.6881 15.5026C25.0457 15.2129 25.1009 14.6882 24.8113 14.3305C23.8945 13.1984 20.776 11.6046 18.0096 10.8666C13.6997 9.71693 11.7462 9.43173 10.6402 10.3273C10.2826 10.617 10.2274 11.1417 10.517 11.4994C10.8067 11.857 11.3314 11.9122 11.6891 11.6226Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_7643_3740" x1="1750.19" y1="0" x2="1750.19" y2="2500" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#F0F0F0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_7643_3740" x1="1750.19" y1="0" x2="1750.19" y2="2500" gradientUnits="userSpaceOnUse">
+<stop stop-color="#05AB41"/>
+<stop offset="1" stop-color="#019C39"/>
+</linearGradient>
+<linearGradient id="paint2_linear_7643_3740" x1="595.189" y1="6.66667" x2="595.189" y2="1173.33" gradientUnits="userSpaceOnUse">
+<stop stop-color="#053087"/>
+<stop offset="1" stop-color="#012877"/>
+</linearGradient>
+</defs>
+</svg>
