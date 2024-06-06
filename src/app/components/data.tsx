@@ -37,12 +37,12 @@ export const Data = [
             {
                 name: "Marcel",
                 number: "9108 9138",
-                picture: "/comercial/Images/Marcel.webp",
+                picture: "/comercial/Images/marcel.webp",
             },
             {
                 name: "Matheus",
                 number: "8170 4216",
-                picture: "/comercial/Images/Matheus.webp",
+                picture: "/comercial/Images/matheus.webp",
             },
             {
                 name: "Ingrid",
@@ -66,12 +66,12 @@ export const Data = [
             {
                 name: "Camila",
                 number: "9603 2809",
-                picture: "/comercial/Images/Camila.webp",
+                picture: "/comercial/Images/camila.webp",
             },
             {
                 name: "Lucas",
                 number: "8132 2734",
-                picture: "/comercial/Images/Lucas.webp",
+                picture: "/comercial/Images/lucas.webp",
             },
         ],
 
